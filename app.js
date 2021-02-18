@@ -11,7 +11,7 @@ var buton=document.getElementById("btn");
 buton.addEventListener("click",function(){
 
   if(pret.value=="" || factura.value=="" || transport.value==""){
-    alert("Trebuie completate taote casutele!")
+    alert("Trebuie completate toate casutele!")
     return
   }
 
