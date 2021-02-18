@@ -16,7 +16,7 @@ width: 40px;
   height: 100px;
   width: 500px;
   margin-bottom: 50px;
-  background: url('./Logo.png');
+  background: url("./Logo.jpg");
   background-repeat: no-repeat;
   justify-content: center;
 
